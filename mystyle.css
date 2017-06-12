@@ -1,0 +1,25 @@
+h1{
+  text-align:center;
+  text-decoration:underline;
+  font-family:"Times New Roman",Serif,Times;
+  color: #641E16;
+}
+
+div{
+  border: 2px solid grey;
+  background-color:#F9E79F ;
+}
+img{
+ display: block;
+    margin: 0 auto;
+     border: 1px solid #ccc;
+}
+p{
+  margin:2px;
+  padding:2px;
+  text-align: justify;
+  font-size:18px;
+}
+h3{
+  color:blue;
+}
